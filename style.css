@@ -174,3 +174,9 @@ input[type='number'] {
   opacity: 1;
 }
 
+
+.by {
+  color: grey;
+  font-size: 12px;
+}
+
